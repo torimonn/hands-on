@@ -1,0 +1,13 @@
+1.	Draw.io Integration（hediet.vscode-drawio）
+https://hediet.gallery.vsassets.io/_apis/public/gallery/publisher/hediet/extension/vscode-drawio/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   ￼
+	2.	Excel Viewer（GrapeCity.gc-excelviewer）
+https://grapecity.gallery.vsassets.io/_apis/public/gallery/publisher/GrapeCity/extension/gc-excelviewer/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage
+※この拡張は VS Code 1.63+ 要求。1.102 は満たしとるで👌   ￼
+	3.	Indent Rainbow（oderwat.indent-rainbow）
+https://oderwat.gallery.vsassets.io/_apis/public/gallery/publisher/oderwat/extension/indent-rainbow/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   ￼
+	4.	Pylance（ms-python.vscode-pylance）
+https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/vscode-pylance/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   ￼
+	5.	Streamlit Runner（joshrmosier.streamlit-runner）
+https://joshrmosier.gallery.vsassets.io/_apis/public/gallery/publisher/joshrmosier/extension/streamlit-runner/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   ￼
+	6.	Live Preview（ms-vscode.live-server）
+https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/live-server/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   
