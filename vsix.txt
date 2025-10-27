@@ -11,3 +11,15 @@ https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/e
 https://joshrmosier.gallery.vsassets.io/_apis/public/gallery/publisher/joshrmosier/extension/streamlit-runner/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   ￼
 	6.	Live Preview（ms-vscode.live-server）
 https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/live-server/latest/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage   
+1.	Draw.io Integration（hediet.vscode-drawio）
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/latest/vspackage
+	2.	Excel Viewer（GrapeCity.gc-excelviewer）
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GrapeCity/vsextensions/gc-excelviewer/latest/vspackage
+	3.	Indent Rainbow（oderwat.indent-rainbow）
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oderwat/vsextensions/indent-rainbow/latest/vspackage
+	4.	Pylance（ms-python.vscode-pylance）
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/latest/vspackage
+	5.	Streamlit Runner（joshrmosier.streamlit-runner）
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/joshrmosier/vsextensions/streamlit-runner/latest/vspackage
+	6.	Live Preview（Microsoft / itemName は “live-server”）
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/latest/vspackage  ￼
